@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Walker and Company Engineering Blog
+description:    ""
+baseurl:        "/"
+url:            "eng.walkerandcompany.com"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Walker and Company
+  url:          walkerandcompany.com
+  email:        mts@walkerandcompany.com
 
 # Build settings
 markdown:       kramdown
@@ -24,4 +24,4 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       10
